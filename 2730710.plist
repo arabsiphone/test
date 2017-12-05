@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+						<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+						<plist version="1.0">
+						<dict>
+						   <key>items</key>
+						   <array>
+						       <dict>
+						           <key>assets</key>
+						           <array>
+						               <dict>
+						                   <key>kind</key>
+						                   <string>software-package</string>
+						                   <key>url</key>
+						                   <string>http://down.weapp.com/apps/zb/002/73/07/10/5a1d2f8e1a2ab4e1637e713a.ipa</string>
+						               </dict>
+						               <dict>
+						                   <key>kind</key>
+						                   <string>display-image</string>
+						                   <key>needs-shine</key>
+						                   <true/>
+						                   <key>url</key>
+						                   <string>http://www.weapp.com/picture/app_ios/us/002/73/07/10/57x57bb.png</string>
+						                </dict>
+										<dict>
+										<key>kind</key>
+										<string>full-size-image</string>
+										<key>needs-shine</key>
+										<true/>
+										<key>url</key><string>http://www.weapp.com/picture/app_ios/us/002/73/07/10/512x512bb.png</string>
+										</dict>
+						           </array>
+						           <key>metadata</key>
+						           <dict>
+						               <key>bundle-identifier</key>
+						               <string>vip.tutu.wapp</string>
+						               <key>bundle-version</key>
+						               <string></string>
+						               <key>kind</key>
+						               <string>software</string>
+						               <key>title</key>
+						               <string>WhatsApp  </string>
+						           </dict>
+						       </dict>
+						   </array>
+						</dict>
+						</plist>
