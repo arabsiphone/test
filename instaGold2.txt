@@ -1,7 +1,7 @@
-﻿{"version_code":22,"content":"
-<p>تحديث 22.00</p>
+﻿{"version_code":23,"content":"
+<p>تحديث 23.00</p>
 
-<li>التحديث لنسخة الماركت 22.0.0.15.68</li>
+<li>23 23 23 23 23</li>
 <li>إضافة خيارات جديدة لتعديل ثيم(الوان) الواجهة الرئيسية</li>
 <li>إضافة إمكانية التصويت</li>
 <li>يمكنك الآن حفظ/تطبيق/مسح/مشاركة الثيم الخاص بك</li>
@@ -21,5 +21,5 @@
 <li> Fixed Bubble Theme Color</li>
 <li> Many More Fixes</li>
 
-","url":"http://instaplusgold.com/download-instagram-plus-gold/?Version=22"
+","url":"http://instaplusgold.com/download-instagram-plus-gold/?Version=23"
 }
