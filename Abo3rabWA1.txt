@@ -1,7 +1,11 @@
-{"version_code":452128,"content":"
-<p>تحديث مهم جدا 5.50</p>
-<p>طريقة التحديث: اضغط على فتح ستفتح لك مقال الشرح ستجد روابط التحميل باللون الذهبي والازرق والاحمر حمل النسخة الجديدة وثبتها بدون حذف النسخة القديمة</p>
-<p>اذا لم تستطيع التثبيت احذف النسخة الحالية ولكن قبل ذلك ادخل الى اعدادات الذهبي ثم عمل نسخة احتياطية</p>
-<p>تنبيه: النسخ غير موجودة على متجر جوجل بلاي</p>
-","url":"http://watsabplusarab.com/whatsapp-plus-gold-abo3rab/?id=550"
+{"version_code":452257,"content":"
+<p>تحديث جديد 6.40</p>
+<p>طريقة التحديث:</p>
+<li>1: بعد الضغط على فتح ستفتح لك صفحة التحديث ستجد روابط باللون الذهبي والاحمر والازرق</li>
+<li>2: اضغط على احد هذه الروابط</li>
+<li>3: في صفحة التحميل والتحديث انزل الى اسفل الصفحة بتجد روابط التحميل.</li>
+<li>4: بعد تحميل النسخة ثبتها بدون حذف القديم</li>
+<p>New Base Updated 6.40</p>
+<p> Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </ p>
+","url":"http://watsabplusarab.com/whatsapp-plus-gold-abo3rab/?id=640"
 }
