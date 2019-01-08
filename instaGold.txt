@@ -1,25 +1,18 @@
-﻿{"version_code":22,"content":"
-<p>تحديث 22.00</p>
+{"version_code":72,"content":"
+<p>تحديث جديد 71.00</p>
+<p>طريقة التحديث: قم بتحميل النسخة الجديدة وتثبيتها بدون حذف النسخة القديمة فقط</p>
+<p>How Update: Opew this Message and Download the new version install it without deleting the old version.</p>
 
-<li>التحديث لنسخة الماركت 22.0.0.15.68</li>
-<li>إضافة خيارات جديدة لتعديل ثيم(الوان) الواجهة الرئيسية</li>
-<li>إضافة إمكانية التصويت</li>
-<li>يمكنك الآن حفظ/تطبيق/مسح/مشاركة الثيم الخاص بك</li>
-<li>إضافة الخيار رقم 1.2.17 لتغيير لون رسالة الإعجاب(القلب) في المحادثة</li>
-<li>إضافة الخيار رقم 2.2.11 لتغيير لون رسال الإعجاب(القلب) في المحادثات</li>
-<li>إصلاح خيارات الشفافية</li>
-<li>إصلاح تغيير الوان فقاعات الرسائل في المحادثة</li>
-<li>إصلاحات اخرى</li>
+<li>تستطيع تسجيل الدخول من خلال الفيس بوك.</li>
+<li>يمكنك الاتصال صوت وصورة.</li>
+<li>يمكنك استخدام IGTV في الانستقرام.</li>
+<li>يمكنك طلب اشارة التحقق الزرقاء لحسابك.</li>
+<li>تستطيع الان طرح الاسئلة في الستوري الخاص بك.</li>
+<li>تستطيع عمل منشن في القصة الخاصه بك "منشن".</li>
+<li>تستطيع اضافة مقطع موسيقى في القصة.</li>
+<li>اصلاح اغلاق التطبيق عند التحميل</li>
+<li>اصلاح رسالة اغلاق التطبيق عند الخروج من التطبيق.</li>
+<li>اضافة خيارات جديدة لعمل ثيم خاص بك.</li>
 
-<li> New Base Updated to 22.0.0.15.68 (Beta) </li>
-<li> Added Options to Theme Home Feeds Page (Mod 4.1 - Mod 4.5)</li>
-<li> Added Poll</li>
-<li> Added Options to Save/Load/Clear/Share Themes(GBSettings - More)</li>
-<li> Added Ability to Theme Like Color in Direct Message (DM) (1.2.17)</li>
-<li> Added Ability to Theme Like Color in Main/Chats Screen(Mod 2.2.11) </li>
-<li> Fixed Translucent Mod</li>
-<li> Fixed Bubble Theme Color</li>
-<li> Many More Fixes</li>
-
-","url":"http://instaplusgold.com/download-instagram-plus-gold/?Version=22"
+","url":"http://instaplusgold.com/download-instagram-plus-gold/?Version=71"
 }
