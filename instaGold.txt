@@ -1,4 +1,4 @@
-{"version_code":72,"content":"
+{"version_code":41,"content":"
 <p>تحديث جديد 71.00</p>
 <p>طريقة التحديث: قم بتحميل النسخة الجديدة وتثبيتها بدون حذف النسخة القديمة فقط</p>
 <p>How Update: Opew this Message and Download the new version install it without deleting the old version.</p>
